@@ -2,6 +2,9 @@
 Udemy course: Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
 Instructors: Kirill Eremenko, Ligency|Team, Ligency Team
 
+All projects can be found through this tableau public link: https://public.tableau.com/app/profile/erica.tb 
+
+
 ## Section 1: It's super easy to get Started  
 Create a map and find the most and least profitable States. 
 
